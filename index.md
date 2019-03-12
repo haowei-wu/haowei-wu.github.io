@@ -1,39 +1,21 @@
-## Haowei Wu
+# Haowei Wu
 
 * Contact: haoweiwu1991@gmail.com
+* Mail: 1600 Amphitheatre Parkway, Mountain View, CA 94043
 
-You can use the [editor on GitHub](https://github.com/haowei-wu/haowei-wu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a software engineer at Google, working on toolchain support for Fuchsia OS. I obtained my PhD degree in Department of Computer Science & Engineering of The Ohio State University, working with Dr. Atanas Rountev. My research areas are software engineering, programming languages, and compilers. Before joining OSU, I got my Bachelor Degree in Information Security in Huazhong University of Science & Technology in 2013.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haowei-wu/haowei-wu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Haowei Wu. Detection of Energy-Inefficiency Patterns in Android Applications. PhD thesis, Ohio State University, August 2018.
+2. Shengqian Yang, Haowei Wu, Hailong Zhang, Yan Wang, Chandrasekar Swaminathan, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. International Journal of Automated Software Engineering, June 2018.
+3. Haowei Wu, Yan Wang, and Atanas Rountev. Sentinel: Generating GUI tests for Android sensor leaks. In IEEE/ACM International Workshop on Automation of Software Test, 2018.
+4. Yan Wang, Haowei Wu, Hailong Zhang, and Atanas Rountev. Orlis: Obfuscation-resilient library detection for Android. In IEEE/ACM International Conference on Mobile Software Engineering and Systems, 2018.
+5. Hailong Zhang, Haowei Wu, and Atanas Rountev. Detection of energy inefficiencies in Android Wear watch faces. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2018.
+6. Haowei Wu, Shengqian Yang, and Atanas Rountev. Static detection of energy defect patterns in Android applications. In International Conference on Compiler Construction, pages 185–195, 2016.
+7. Hailong Zhang, Haowei Wu, and Atanas Rountev. Automated test generation for detection of leaks in Android applications. In IEEE/ACM International Workshop on Automation of Software Test, pages 64–70, 2016.
+8. Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas Rountev. Static control-flow analysis of user-driven callbacks in Android applications. In ICSE, 2015.
+9. Shengqian Yang, Hailong Zhang, Haowei Wu, Yan Wang, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. In IEEE/ACM International Conference on Automated Software Engineering, 2015.
+10. Xiaojing Wang, Wei Ye, Haowei Wu, Linjie Ding, and Chi Zhang. Evaluation of traffic control in virtual environment. In Distributed Computing and Algorithms for Business, Engineering, and Sciences, 2012.
