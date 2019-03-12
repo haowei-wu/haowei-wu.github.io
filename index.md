@@ -9,16 +9,16 @@ I am currently a software engineer at Google, working on toolchain support for F
 
 ## Publications
 
-1. Haowei Wu. Detection of Energy-Inefficiency Patterns in Android Applications. PhD thesis, Ohio State University, August 2018.
-2. Shengqian Yang, Haowei Wu, Hailong Zhang, Yan Wang, Chandrasekar Swaminathan, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. International Journal of Automated Software Engineering, June 2018.
-3. Haowei Wu, Yan Wang, and Atanas Rountev. Sentinel: Generating GUI tests for Android sensor leaks. In IEEE/ACM International Workshop on Automation of Software Test, 2018.
-4. Yan Wang, Haowei Wu, Hailong Zhang, and Atanas Rountev. Orlis: Obfuscation-resilient library detection for Android. In IEEE/ACM International Conference on Mobile Software Engineering and Systems, 2018.
-5. Hailong Zhang, Haowei Wu, and Atanas Rountev. Detection of energy inefficiencies in Android Wear watch faces. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2018.
-6. Haowei Wu, Shengqian Yang, and Atanas Rountev. Static detection of energy defect patterns in Android applications. In International Conference on Compiler Construction, pages 185–195, 2016.
-7. Hailong Zhang, Haowei Wu, and Atanas Rountev. Automated test generation for detection of leaks in Android applications. In IEEE/ACM International Workshop on Automation of Software Test, pages 64–70, 2016.
-8. Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas Rountev. Static control-flow analysis of user-driven callbacks in Android applications. In ICSE, 2015.
-9. Shengqian Yang, Hailong Zhang, Haowei Wu, Yan Wang, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. In IEEE/ACM International Conference on Automated Software Engineering, 2015.
-10. Xiaojing Wang, Wei Ye, Haowei Wu, Linjie Ding, and Chi Zhang. Evaluation of traffic control in virtual environment. In Distributed Computing and Algorithms for Business, Engineering, and Sciences, 2012.
+1. __Haowei Wu__. Detection of Energy-Inefficiency Patterns in Android Applications. PhD thesis, Ohio State University, August 2018.
+2. Shengqian Yang, __Haowei Wu__, Hailong Zhang, Yan Wang, Chandrasekar Swaminathan, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. International Journal of Automated Software Engineering, June 2018.
+3. __Haowei Wu__, Yan Wang, and Atanas Rountev. Sentinel: Generating GUI tests for Android sensor leaks. In IEEE/ACM International Workshop on Automation of Software Test, 2018.
+4. Yan Wang, __Haowei Wu__, Hailong Zhang, and Atanas Rountev. Orlis: Obfuscation-resilient library detection for Android. In IEEE/ACM International Conference on Mobile Software Engineering and Systems, 2018.
+5. Hailong Zhang, __Haowei Wu__, and Atanas Rountev. Detection of energy inefficiencies in Android Wear watch faces. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2018.
+6. __Haowei Wu__, Shengqian Yang, and Atanas Rountev. Static detection of energy defect patterns in Android applications. In International Conference on Compiler Construction, pages 185–195, 2016.
+7. Hailong Zhang, __Haowei Wu__, and Atanas Rountev. Automated test generation for detection of leaks in Android applications. In IEEE/ACM International Workshop on Automation of Software Test, pages 64–70, 2016.
+8. Shengqian Yang, Dacong Yan, __Haowei Wu__, Yan Wang, and Atanas Rountev. Static control-flow analysis of user-driven callbacks in Android applications. In ICSE, 2015.
+9. Shengqian Yang, Hailong Zhang, __Haowei Wu__, Yan Wang, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. In IEEE/ACM International Conference on Automated Software Engineering, 2015.
+10. Xiaojing Wang, Wei Ye, __Haowei Wu__, Linjie Ding, and Chi Zhang. Evaluation of traffic control in virtual environment. In Distributed Computing and Algorithms for Business, Engineering, and Sciences, 2012.
 
 ## Software
 
