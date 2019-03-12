@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am currently a software engineer at Google, working on toolchain support for Fuchsia OS. I obtained my PhD degree in Department of Computer Science & Engineering of The Ohio State University, working with Dr. Atanas Rountev. My research areas are software engineering, programming languages, and compilers. Before joining OSU, I got my Bachelor Degree in Information Security in Huazhong University of Science & Technology in 2013.
+I am currently a software engineer at Google, working on toolchain support for Fuchsia OS. I obtained my PhD degree in Department of Computer Science & Engineering of The Ohio State University, working with [Dr. Atanas Rountev](http://web.cse.ohio-state.edu/~rountev.1/). My research areas are software engineering, programming languages, static analysis, and compilers. Before joining OSU, I got my Bachelor Degree in Information Security in Huazhong University of Science & Technology in 2013.
 
 ## Publications
 
