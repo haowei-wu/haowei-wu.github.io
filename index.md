@@ -22,6 +22,6 @@ I am currently a software engineer at Google, working on toolchain support for F
 
 ## Software
 
-* Gator[http://web.cse.ohio-state.edu/presto/software/gator/]
-* Sentinel[https://presto-osu.github.io/Sentinel/]
-* Orlis/Orcis[https://presto-osu.github.io/orlis-orcis/]
+* [Gator](http://web.cse.ohio-state.edu/presto/software/gator/)
+* [Sentinel](https://presto-osu.github.io/Sentinel/)
+* [Orlis/Orcis](https://presto-osu.github.io/orlis-orcis/)
