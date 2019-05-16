@@ -20,8 +20,14 @@ I am currently a software engineer at Google, working on toolchain support for F
 9. Shengqian Yang, Hailong Zhang, __Haowei Wu__, Yan Wang, Dacong Yan, and Atanas Rountev. Static window transition graphs for Android. In IEEE/ACM International Conference on Automated Software Engineering, 2015.[[PDF](./ase15.pdf)]
 10. Xiaojing Wang, Wei Ye, __Haowei Wu__, Linjie Ding, and Chi Zhang. Evaluation of traffic control in virtual environment. In Distributed Computing and Algorithms for Business, Engineering, and Sciences, 2012. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6385301)]
 
+## Service
+
+* [SCAM'19](http://www.ieee-scam.org/2019/)
+
 ## Software
 
 * [Gator](http://web.cse.ohio-state.edu/presto/software/gator/)
 * [Sentinel](https://presto-osu.github.io/Sentinel/)
 * [Orlis/Orcis](https://presto-osu.github.io/orlis-orcis/)
+
+
