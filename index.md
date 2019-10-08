@@ -22,7 +22,9 @@ I am currently a software engineer at Google, working on toolchain support for F
 
 ## Service
 
-* [SCAM'19](http://www.ieee-scam.org/2019/)
+* [SCAM'19](http://www.ieee-scam.org/2019/), PC member
+* [CC'20](https://conf.researchr.org/home/CC-2020), PC member
+* Transactions on Software Engineering, Reviewer
 
 ## Software
 
